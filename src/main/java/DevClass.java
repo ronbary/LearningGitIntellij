@@ -3,7 +3,8 @@ public class DevClass {
         System.out.println("Dev class");
         // ron bary added this
 
-        System.out.println("Hello world from user1");
+        System.out.println("Hello world from developer2");
+
     }
 
 }
