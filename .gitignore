@@ -1,0 +1,11 @@
+# Intellij
+.idea/
+*.iws
+
+
+# Maven
+log/
+target/
+build/
+
+doc/
