@@ -4,6 +4,7 @@ public class DevClass {
         // ron bary added this
 
         System.out.println("Hello world from user1");
+        System.out.println("Hello world from user2");
     }
 
 }
